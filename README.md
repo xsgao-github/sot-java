@@ -1,2 +1,2 @@
 # sot-java
-SQL of Things
+SQL of Things (SOT) in Java.
